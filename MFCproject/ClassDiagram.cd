@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EllipseF" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EllipseF.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figure" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAAAAAAKAAAAggAwAMAAQCAASCAEAAACBAAAAAAMAg=</HashCode>
+      <FileName>Figure.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HourglassF" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>HourglassF.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LineF" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LineF.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MagenDavidF" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MagenDavidF.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCprojectApp" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAACAAAQAAAAAEAAAAAA=</HashCode>
+      <FileName>MFCproject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCprojectDlg" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAQgECCAwAAAAghBcICAxCABAJAMagGBAJGAgQAIA=</HashCode>
+      <FileName>MFCprojectDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RectangleF" Collapsed="true">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RectangleF.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="starF" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>starF.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TriangleF" Collapsed="true">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TriangleF.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

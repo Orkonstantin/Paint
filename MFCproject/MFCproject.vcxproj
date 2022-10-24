@@ -215,6 +215,7 @@
     <ResourceCompile Include="MFCproject.rc" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ClassDiagram.cd" />
     <None Include="res\MFCproject.rc2" />
   </ItemGroup>
   <ItemGroup>
